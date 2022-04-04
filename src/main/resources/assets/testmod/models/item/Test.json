@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "texures": {
+    "layer0": "testmod:item/Test"
+  }
+}
